@@ -21,7 +21,8 @@ const Player = () => {
       className="
         fixed 
         bottom-0 
-        bg-black 
+		bg-gradient-to-b 
+        from-indigo-800 
         w-full 
         py-2 
         h-[80px] 

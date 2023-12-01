@@ -12,7 +12,7 @@ export default async function Home() {
   return (
     <div
       className="
-        bg-neutral-900 
+        bg-indigo-900
         rounded-lg 
         h-full 
         w-full 
@@ -29,7 +29,7 @@ export default async function Home() {
               font-semibold
             "
           >
-            Welcome back
+            Hi selamat datang kembali yaa!!
           </h1>
           <div
             className="

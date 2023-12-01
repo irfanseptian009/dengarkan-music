@@ -16,6 +16,7 @@
     "@supabase/auth-helpers-react": "^0.4.2",
     "@supabase/auth-ui-react": "^0.4.6",
     "@supabase/auth-ui-shared": "^0.1.8",
+    "@supabase/supabase-js": "^2.39.0",
     "amqplib": "^0.10.3",
     "next": "latest",
     "node": "^21.1.0",
@@ -42,7 +43,7 @@
     "eslint": "latest",
     "eslint-config-next": "latest",
     "postcss": "latest",
-    "supabase": "^1.112.0",
+    "supabase": "^1.115.4",
     "tailwindcss": "latest",
     "typescript": "latest"
   }
